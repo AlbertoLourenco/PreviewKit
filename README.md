@@ -9,12 +9,16 @@ First you'll need to implement the PreviewKitProtocol on your custom UIView.
 
 To add your subviews use:
 
-``func addSubviews()``
+```swift
+func addSubviews()
+```
 
 Real-time update:
 
-``func updateUI()`` <br />
-``func applyConstraints()``
+```swift
+func updateUI()
+func applyConstraints()
+```
 
 ## Requirements
 
