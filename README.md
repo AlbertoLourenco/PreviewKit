@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/AlbertoLourenco/PreviewKit/main/cover.png)
+![cover](https://raw.githubusercontent.com/AlbertoLourenco/PreviewKit/main/github-assets/cover.png)
 
 A powerful way to use Xcode Canvas and preview your UIKit view code in real time.
 
@@ -33,4 +33,4 @@ Real-time update:
 
 ## In action
 
-![preview](https://raw.githubusercontent.com/AlbertoLourenco/PreviewKit/main/preview.gif)
+![preview](https://raw.githubusercontent.com/AlbertoLourenco/PreviewKit/main/github-assets/preview.gif)
